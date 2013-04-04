@@ -1,0 +1,5 @@
+name: EverNight
+version: 1.0
+author: dpedu
+main: me.dpedu.evernight.EverNight
+commands:
